@@ -1,6 +1,6 @@
 # Awesome Conduct
 
-![Respectful Kanye](images/respectful.gif)
+> Be True Awesome
 
 ## What's ?
 
@@ -20,6 +20,13 @@ One of the preventive measures against this inequality and prejudice is the Code
 #### What's Code of Conduct
 
 A [code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct) is a set of rules outlining the social norms and rules and responsibilities of, or proper practices for, an individual, party or organization. Related concepts include ethical, honor, moral codes and religious laws.
+
+#### Some Good Conduct Codes
+
+- [Django - Code of Conduct](https://www.djangoproject.com/conduct/)
+- [jQuery Foundation - Code of Conduct](https://jquery.org/conduct/)
+- [JSConf - Code of Conduct](http://jsconf.com/codeofconduct.html)
+- [Contributor Covenant](http://contributor-covenant.org/)
 
 ## Guide of Conduct
 
@@ -41,11 +48,9 @@ The only way to be fully accepted and respected for who you truly are is learnin
 
 Seriously.
 
-![Seriously](images/seriously.gif)
-
 ----------------------------------------------
 
-You think missing more items in the guide? Send a PR! :)
+Do you think it is missing more items? Send a PR! :)
 
 ## Must Read Now
 
