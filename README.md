@@ -7,6 +7,20 @@
 Awesome Conduct is a guide to be AWESOME without being a stupid.
 It's also an incredible reference to find that you probably did something stupid.
 
+Note: This awesome-list was made for people who know how to recognize his mistakes. If you don't fit, you can save your time and stop here.
+
+## The Why ?
+
+There has always been prejudiced attitudes among the communities. But only now developers are joining forces to overcome all prejudice and also invest in a community that is healthy and has diversity.
+
+**Understand**: In a healthy community there is racism, sexism, homophobia or any other prejudice. All people are equal and have equal voice power.
+
+One of the preventive measures against this inequality and prejudice is the Code of Conduct.
+
+#### What's Code of Conduct
+
+A [code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct) is a set of rules outlining the social norms and rules and responsibilities of, or proper practices for, an individual, party or organization. Related concepts include ethical, honor, moral codes and religious laws.
+
 ## Guide of Conduct
 
 Calm friend! There are few tips to not be an asshole
