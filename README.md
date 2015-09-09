@@ -23,15 +23,15 @@ A [code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct) is a set of r
 
 ## Guide of Conduct
 
-Calm friend! There are few tips to not be an asshole
+Calm friend! Are only few tips to not be an asshole
 
 ----------------------------------------------
 
-### Lesson One: "It's not because it doesn't affect you that it doesn't matter."
+#### # Lesson One: "It's not because it doesn't affect you that it doesn't matter."
 
-### Lesson Two: "Everyone should be respected"
+#### # Lesson Two: "Everyone should be respected"
 
-### Lesson Three: "Don't be a Asshole"
+#### # Lesson Three: "Don't be a Asshole"
 
 ----------------------------------------------
 
