@@ -4,16 +4,16 @@
 
 ## What's ?
 
-Awesome Conduct is a guide to be AWESOME without being a stupid.
-It's also an incredible reference to find that you probably did something stupid.
+Awesome Conduct is a guide to be AWESOME.
+It's also an incredible reference to find that you probably did something wrong.
 
-Note: This awesome-guide was made for people who know recognize his own mistakes. If you don't fit, you can save your time and stop right here.
+Note: This awesome-guide was made for people who recognize his own mistakes. If you are already awesome, you can save your time and stop right here.
 
 ## The Why ?
 
-There has always been prejudiced attitudes among the communities. But only now developers are joining forces to overcome all prejudice and also invest in a community that is healthy and has diversity.
+There has always been prejudiced attitudes among the communities. But only now developers are joining forces to overcome all prejudice and also invest in a community that is healthy and inclusive.
 
-**Understand**: In a healthy community there is NO racism, sexism, homophobia or any other prejudice. All **people are equal** and have equal voice power.
+**Understand**: Racism, sexism, homophobia, or any other form of prejudice are not acceptable in a healthy community. **Everyone equal** and have equal voice power.
 
 One of the preventive measures against this inequality and prejudice is the Code of Conduct.
 
@@ -23,13 +23,13 @@ A [code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct) is a set of r
 
 ## Guide of Conduct
 
-Calm friend! Are only few tips to not be an asshole
+Here are a few tips to amazing:
 
 ----------------------------------------------
 
 #### # Lesson One: "It's not because it doesn't affect you that it doesn't matter."
 
-Ever come across a social justice issue that didn't seem like a problem to you?
+Did you ever come across a social justice issue that didn't seem like a problem to you?
 
 Reference: [Why Don't People Care When It Doesn't Affect Them?](http://www.huffingtonpost.com/gil-laroya/why-dont-people-care-when_b_5888686.html)
 
@@ -37,7 +37,7 @@ Reference: [Why Don't People Care When It Doesn't Affect Them?](http://www.huffi
 
 The only way to be fully accepted and respected for who you truly are is learning to accept and respect others for who they truly are.
 
-#### # Lesson Three: "Don't be a Asshole"
+#### # Lesson Three: "Always be amazing!"
 
 Seriously.
 
