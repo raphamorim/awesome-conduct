@@ -13,7 +13,7 @@ Note: This awesome-guide was made for people who know how to recognize his mista
 
 There has always been prejudiced attitudes among the communities. But only now developers are joining forces to overcome all prejudice and also invest in a community that is healthy and has diversity.
 
-**Understand**: In a healthy community there is racism, sexism, homophobia or any other prejudice. All people are equal and have equal voice power.
+**Understand**: In a healthy community there is NO racism, sexism, homophobia or any other prejudice. All **people are equal** and have equal voice power.
 
 One of the preventive measures against this inequality and prejudice is the Code of Conduct.
 
