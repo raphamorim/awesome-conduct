@@ -7,7 +7,7 @@
 Awesome Conduct is a guide to be AWESOME without being a stupid.
 It's also an incredible reference to find that you probably did something stupid.
 
-Note: This awesome-list was made for people who know how to recognize his mistakes. If you don't fit, you can save your time and stop here.
+Note: This awesome-guide was made for people who know how to recognize his mistakes. If you don't fit, you can save your time and stop here.
 
 ## The Why ?
 
@@ -36,6 +36,12 @@ Calm friend! Are only few tips to not be an asshole
 ----------------------------------------------
 
 You think missing more items in the guide? Send a PR! :)
+
+## Must Read Now
+
+- [You literally cannot pay me to speak without a Code of Conduct](http://rachelnabors.com/2015/09/01/code-of-conduct/)
+- [Coding Like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce)
+- [The Importance of a Code of Conduct](http://www.accountingweb.com/community-voice/blogs/admin/the-importance-of-a-code-of-conduct)
 
 ## Contributing
 
