@@ -7,7 +7,7 @@
 Awesome Conduct is a guide to be AWESOME without being a stupid.
 It's also an incredible reference to find that you probably did something stupid.
 
-Note: This awesome-guide was made for people who know how to recognize his mistakes. If you don't fit, you can save your time and stop here.
+Note: This awesome-guide was made for people who know recognize his own mistakes. If you don't fit, you can save your time and stop right here.
 
 ## The Why ?
 
