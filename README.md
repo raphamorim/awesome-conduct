@@ -29,9 +29,19 @@ Calm friend! Are only few tips to not be an asshole
 
 #### # Lesson One: "It's not because it doesn't affect you that it doesn't matter."
 
-#### # Lesson Two: "Everyone should be respected"
+Ever come across a social justice issue that didn't seem like a problem to you?
+
+Reference: [Why Don't People Care When It Doesn't Affect Them?](http://www.huffingtonpost.com/gil-laroya/why-dont-people-care-when_b_5888686.html)
+
+#### # Lesson Two: "Respect others like you want to be respected"
+
+The only way to be fully accepted and respected for who you truly are is learning to accept and respect others for who they truly are.
 
 #### # Lesson Three: "Don't be a Asshole"
+
+Seriously.
+
+![Seriously](images/seriously.gif)
 
 ----------------------------------------------
 
