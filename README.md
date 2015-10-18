@@ -22,7 +22,7 @@ One of the preventive measures against this inequality and prejudice is the Code
 
 >A code of conduct is a set of rules outlining the social norms and rules and responsibilities of, or proper practices for, an individual, party or organization. Related concepts include ethical, honor, moral codes and religious laws. *Source: [Wikipedia](https://en.wikipedia.org/wiki/Code_of_conduct)*
 
-#### Some Good Conduct Codes
+#### Some Good Codes of Conduct
 
 - [Django - Code of Conduct](https://www.djangoproject.com/conduct/)
 - [jQuery Foundation - Code of Conduct](https://jquery.org/conduct/)
